@@ -50,6 +50,25 @@
 
 ---
 
+
+### 🚀 Check Out My Latest Project!
+
+**Gochat-ws** – A real-time WebSocket chat application built with Go.  
+
+[![Gochat-ws](https://img.shields.io/badge/View%20on-GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aminlo/Gochat-ws)   [![Demo](https://img.shields.io/badge/Live-Demo-%23FF6F61?style=for-the-badge)]([https://your-demo-link.com](https://gochat-proj.web.app/))
+
+---
+
+### 📬 Contact Me
+
+Feel free to reach out to me via LinkedIn or email:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-loui-osman/)  [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminlouiosman@gmail.com)
+
+
+---
+
+###
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aminlo/aminlo/output/pacman-contribution-graph-dark.svg">
