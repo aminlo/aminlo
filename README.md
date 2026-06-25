@@ -3,11 +3,10 @@
 ###
 
 <p align="left">
-  🎓 Student at Dublin City University with an interest in Site Reliability Engineering (SRE) and Software Engineering (SWE), applying engineering principles, tools, and best practices to build scalable, maintainable systems with a strong emphasis on reliability.
+  Student at Dublin City University with an interest in Site Reliability Engineering (SRE) and Software Engineering (SWE), applying engineering principles, tools, and best practices to build scalable, maintainable systems with a strong emphasis on reliability.
 </p>
 
----
-### Tech Stack
+#### Tech Stack
 
 **Languages:**  
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -49,25 +48,23 @@
 
 **SRE / Reliability Focus:**  
 <p>Observability • Monitoring • Logging • Alerting • High Availability • Scalability • Fault Tolerance • System Design • Incident Response • Performance Optimization • Distributed Systems • Data Pipelines (Batch & Streaming)</p>
----
 
 
-### 🚀 Check Out My Latest Project!
 
-**Gochat-ws** – A real-time WebSocket chat application built with Go.  
+#### Latest Project
 
-[![Gochat-ws](https://img.shields.io/badge/View%20on-GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aminlo/Gochat-ws)   [![Demo](https://img.shields.io/badge/Live-Demo-%23FF6F61?style=for-the-badge)](https://gochat-proj.web.app/)
-
----
-
-### 📬 Contact Me
-
-Feel free to reach out to me via LinkedIn or email:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-loui-osman/)  [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminlouiosman@gmail.com)
+**Gochat-ws** — Real-time WebSocket chat app built with Go  
+GitHub: https://github.com/aminlo/Gochat-ws  
+Live demo: https://gochat-proj.web.app/
 
 
----
+
+#### Contact
+
+LinkedIn: https://www.linkedin.com/in/amin-loui-osman/  
+Email: aminlouiosman@gmail.com
+
+
 
 ###
 ###
